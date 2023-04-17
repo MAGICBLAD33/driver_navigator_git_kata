@@ -1,2 +1,4 @@
 # driver_navigator_git_kata
-Uni exercise
+
+Uni exersice von Lance, Vincenzo, Tim and Oybek
+
